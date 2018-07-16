@@ -1,4 +1,4 @@
 foo = 'that'
 bar = 'this'
 
-foo + bar
+baz = foo + bar
