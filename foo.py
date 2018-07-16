@@ -1,2 +1,4 @@
-foo = 30
-arv = 40
+foo = 'that'
+bar = 'this'
+
+baz = foo + bar
